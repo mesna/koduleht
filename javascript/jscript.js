@@ -1,0 +1,1 @@
+document.getElementById("skript").innerHTML = "This text magically appeared with JavaScript";
